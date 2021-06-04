@@ -16,3 +16,7 @@ Remembered git-bash and git basics. Learned little English and read several arti
 
 + remembered a little English grammar;
 + read partially book Chakon *Pro Git*.
+
+# 04.06
+
+Today I was busy. Only listened voice chat record from Telegram channel **DOU.UA** about salary in IT companies.
