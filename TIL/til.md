@@ -20,3 +20,7 @@ Remembered git-bash and git basics. Learned little English and read several arti
 # 04.06
 
 Today I was busy. Only listened voice chat record from Telegram channel **DOU.UA** about salary in IT companies.
+
+# 05.06
+
+I learned articles and video tutorials about AWS services, that are necessary for CI/CD practices.
