@@ -24,3 +24,8 @@ Today I was busy. Only listened voice chat record from Telegram channel **DOU.UA
 # 05.06
 
 I learned articles and video tutorials about AWS services, that are necessary for CI/CD practices.
+
+# 06.06
+
+Today is day off. Only remembered 2 previous presentations.
+
