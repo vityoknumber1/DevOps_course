@@ -29,3 +29,9 @@ I learned articles and video tutorials about AWS services, that are necessary fo
 
 Today is day off. Only remembered 2 previous presentations.
 
+# 07.06
+
++ learned history and types of shell scripting, 2 types kernel insterfaces;
++ listened about best practices of shell scripting;
++ learned review about configuration management tools: Ansible, Chef, Puppet, SaltStack;
++ installed Ubuntu 21.04 and Debian OS on VirtualBox for doing homework. 
