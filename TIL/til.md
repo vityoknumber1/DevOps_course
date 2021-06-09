@@ -35,3 +35,17 @@ Today is day off. Only remembered 2 previous presentations.
 + listened about best practices of shell scripting;
 + learned review about configuration management tools: Ansible, Chef, Puppet, SaltStack;
 + installed Ubuntu 21.04 and Debian OS on VirtualBox for doing homework. 
+
+# 08.06
+
+Today I learned:
++ bash scripting. Understood what does script from homework;
++ tried to make bash script from 1-line command;
++ ansible documentation.
+
+# 09.06
+
+Today I learned:
++ the most common IDE;
++ mentioned compiled and interpreted programming languages;
++ learned about popular package managers.
