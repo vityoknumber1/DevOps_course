@@ -49,3 +49,7 @@ Today I learned:
 + the most common IDE;
 + mentioned compiled and interpreted programming languages;
 + learned about popular package managers.
+
+# 10.06
+
+Busy day, only tried to write right bash script.
