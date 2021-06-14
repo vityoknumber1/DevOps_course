@@ -53,3 +53,18 @@ Today I learned:
 # 10.06
 
 Busy day, only tried to write right bash script.
+
+# 11.06
+
+Learned more deeply Bash scripting using hints from Google docs of this course.
+
+# 12-13.06
+
+Days off, was ill.
+
+# 14.06
+
+Today I learned all about Git version control system:
++ rules of using different types of branches;
++ files status in Git;
++ best practices and 7 rules of great commit.
